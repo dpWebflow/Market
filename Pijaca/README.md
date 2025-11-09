@@ -3,7 +3,7 @@
 A small interactive web app where you can select vegetables, add them to the cart, and see the total price update in real time.
 
 ## Demo
-<video src="Pijaca/video/recording_market.mp4" controls width="640"></video>
+<video src="Pijaca/video/recording_market_result.gif" controls width="640"></video>
 
 ## Features
 - Add and remove items from the cart  
